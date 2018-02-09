@@ -2,11 +2,11 @@
 
 
 def display_board
-  puts "     |     |   "
-  puts "-------------"
-  puts "     |     |   "
-  puts "-------------"
-  puts "     |     |   "
+  puts "     ", "|     ", "|   "
+  puts "_____", "_____", "_____"
+  puts "     ", "|     ", "|   "
+  puts "_____", "_____", "_____"
+  puts "     ", "|     ", "|   "
 end
 
 puts display_board
