@@ -2,7 +2,7 @@
 
 #display_board = " ", " ", " ", " ", " ", " ", " ", " ", " " 
 
-def display_board (board)
+def display_board(board)
   puts " #{board[0]} | #{board[1]} | #{board[2]} "
   puts "_______________"
   puts " #{board[3]} | #{board[4]} | #{board[5]} "
