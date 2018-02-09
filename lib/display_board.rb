@@ -3,11 +3,11 @@
 display_board = " ", " ", " ", " ", " ", " ", " ", " ", " " 
 
 def display_board (board)
-  puts "     ", "|     ", "|   "
-  puts "_____", "_____", "_____"
-  puts "     ", "|     ", "|   "
-  puts "_____", "_____", "_____"
-  puts "     ", "|     ", "|   "
+  puts "     |     |   "
+  puts "_______________"
+  puts "     |     |   "
+  puts "_______________"
+  puts "     |     |   "
 end
 
 puts display_board
