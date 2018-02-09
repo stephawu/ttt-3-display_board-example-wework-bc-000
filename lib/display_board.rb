@@ -2,11 +2,11 @@
 
 
 def display_board
-  puts "  |  |"
+  puts "   |   |   "
   puts "___________"
-  puts "  |  |"
+  puts "   |   |   "
   puts "___________"
-  puts "  |  |"
+  puts "   |   |   "
 end
 
 display_board(board)
